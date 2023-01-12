@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef86d0c5-9de7-4973-ba90-c8c609463a57" name="Changes" comment="" />
+    <list default="true" id="ef86d0c5-9de7-4973-ba90-c8c609463a57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/SIgnUp/SignUp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/SIgnUp/SignUpInputs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/admin/Cards/AddCard/AddCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/constants/paths.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/constants/paths.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/constants/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/constants/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/NotFound.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/NotFound.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/SignIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/SignIn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/SignUp.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/admin/CardsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/admin/Cards/CardsList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JUUMQde8BLtmJiDrersOAi4fVP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,12 +52,22 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/atomk/Desktop/bestcartdealer",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "ts.external.directory.path": "C:\\Users\\atomk\\Desktop\\bestcartdealer\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\atomk\Desktop\bestcartdealer\frontend\src\pages\SIgnUp" />
+      <recent name="C:\Users\atomk\Desktop\bestcartdealer\frontend\src\pages\admin\Cards\AddCard" />
+      <recent name="C:\Users\atomk\Desktop\bestcartdealer\frontend\src\pages\admin\Cards" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +78,15 @@
       <updated>1672132106712</updated>
       <workItem from="1672132108359" duration="568000" />
       <workItem from="1672647409278" duration="963000" />
-      <workItem from="1672666050632" duration="1019000" />
+      <workItem from="1672666050632" duration="1265000" />
+      <workItem from="1672667335475" duration="195000" />
+      <workItem from="1672667589703" duration="332000" />
+      <workItem from="1672737771686" duration="13000" />
+      <workItem from="1673423620201" duration="8101000" />
+      <workItem from="1673434905973" duration="12211000" />
+      <workItem from="1673455033331" duration="1884000" />
+      <workItem from="1673507672705" duration="634000" />
+      <workItem from="1673509141930" duration="1078000" />
     </task>
     <servers />
   </component>
@@ -63,5 +103,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created the initial structure, installed MUI" />
   </component>
 </project>
